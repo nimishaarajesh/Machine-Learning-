@@ -4,7 +4,7 @@ ML Mavericks is a machine learning project developed as part of the Machine Lear
 Datasets<br/>
 1)NASA Nearest Earth Objects (NEO) Dataset:<br/>
 Contains information about near-Earth objects, including estimated diameter, relative velocity, miss distance from Earth, and hazard classification.<br/>
-Objective: Predict whether a near-Earth object is hazardous based on its physical and orbital characteristics.
+Objective: Predict whether a near-Earth object is hazardous based on its physical and orbital characteristics.<br/>
 2)Banking Marketing Targets Dataset: <br/>
 Contains data related to direct marketing campaigns of a Portuguese banking institution, including client demographics, contact details, and campaign outcomes.<br/>
 Objective: Predict whether a client will subscribe to a term deposit based on demographic and historical data.
