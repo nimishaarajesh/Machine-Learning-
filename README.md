@@ -1,16 +1,16 @@
 Overview <br/>
 ML Mavericks is a machine learning project developed as part of the Machine Learning and Data Mining coursework. The project analyzes two datasets: the NASA Nearest Earth Objects (NEO) dataset and the Banking Marketing Targets dataset, using various machine learning algorithms to derive valuable insights and improve predictive accuracy.
 
-Datasets
-NASA Nearest Earth Objects (NEO) Dataset: Contains information about near-Earth objects, including estimated diameter, relative velocity, miss distance from Earth, and hazard classification.
-
+Datasets<br/>
+!)NASA Nearest Earth Objects (NEO) Dataset:<br/>
+Contains information about near-Earth objects, including estimated diameter, relative velocity, miss distance from Earth, and hazard classification.<br/>
 Objective: Predict whether a near-Earth object is hazardous based on its physical and orbital characteristics.
-Dataset Link
-Banking Marketing Targets Dataset: Contains data related to direct marketing campaigns of a Portuguese banking institution, including client demographics, contact details, and campaign outcomes.
 
+2)Banking Marketing Targets Dataset: <br/>
+Contains data related to direct marketing campaigns of a Portuguese banking institution, including client demographics, contact details, and campaign outcomes.
 Objective: Predict whether a client will subscribe to a term deposit based on demographic and historical data.
-Dataset Link
-Algorithms and Methodologies
+
+Algorithms and Methodologies<br/>
 The following machine learning algorithms were employed, each evaluated using accuracy, precision, recall, and F1-score:
 
 Naive Bayes: Applied to both datasets for probabilistic classification.
