@@ -10,7 +10,7 @@ Contains data related to direct marketing campaigns of a Portuguese banking inst
 Objective: Predict whether a client will subscribe to a term deposit based on demographic and historical data.
 
 Algorithms and Methodologies<br/>
-The following machine learning algorithms were employed, each evaluated using accuracy, precision, recall, and F1-score:
+The following machine learning algorithms were employed, each evaluated using accuracy, precision, recall, and F1-score:<br/>
 1)Naive Bayes: Applied to both datasets for probabilistic classification.<br/>
 2)Support Vector Machine (SVM): Used kernel functions for non-linear data classification.<br/>
 3)Multi-Layer Perceptron (MLP): A neural network effective for complex, non-linear relationships.<br/>
